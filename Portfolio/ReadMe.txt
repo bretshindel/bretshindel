@@ -1,0 +1,1 @@
+This is a small portion of projects from my Analytics coursework that I feel are a good representation of my skills as an analyst today. I chose not to upload code and data files, but the html files should be easy to view on any modern browser. 
